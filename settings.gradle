@@ -1,0 +1,15 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url 'https://packagecloud.io/priv/a6a37650d06c0577abe2f3945bdb0094163afbc8699345e8/tooz/bto/maven2'
+        }
+
+
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "ToozBluetoothTester"
+include ':app'
