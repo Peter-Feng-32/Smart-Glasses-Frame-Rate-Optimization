@@ -8,6 +8,7 @@ The tooz Smart Glasses are a pair of smart glasses made by tooz technologies, wh
 
 ![alt text](https://tooz.com/wp-content/uploads/2021/12/DSC_4655-No-Reflection-1.png)
 
+The tooz glasses offer many advantages, not least of which is their form factor.  They are relatively lightweight and slim, and therefore can actually be comfortably worn for daily use.  However, the main drawback of the glasses is the display is very slow.  Tooz provides a way to send 400x640 frames to the glasses through their API, but they recommend not sending more than 1 frame per second, or the glasses will fail to display the frames correctly.
 
 ### Progress
 
